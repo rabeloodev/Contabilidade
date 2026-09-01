@@ -1,6 +1,6 @@
 # FinAcc Contabilidade
 
-Site institucional simples e moderno para uma empresa de contabilidade.
+Site institucional simples e moderno para empresas de contabilidade.
 
 ## Objetivo
 
@@ -21,11 +21,7 @@ Apresentar a marca, os serviços oferecidos e os dados de contato de forma clara
 
 ## Como abrir
 
-Basta abrir o arquivo `index.html` no navegador.
-
-Se preferir, também pode iniciar um servidor local no projeto com:
-
-## Link 
+### Link 
 
 
 ## Observação
